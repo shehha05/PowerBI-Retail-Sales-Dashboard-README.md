@@ -51,31 +51,30 @@ This Power BI project visualizes and analyzes the sales performance of a retail 
 This report includes a **custom tooltip page** to show **weekday-wise revenue** when hovering over visuals. This improves UX by providing quick insights without crowding the main report.
 
 📷 Tooltip Preview:
-![Tooltip - Weekday Revenue](tooltip-weekday-revenue.png)
+![Tooltip - Weekday Revenue](Tooltip-1.png)
 
 ## 🖼️ Dashboard Previews
 
 ### 📍 Page 1 – KPI & Overview
-![Dashboard](dashboard-retail-1.png)
+![Dashboard](Dashboard-1.png)
 
 ### 📍 Page 2 – Region, Month & Trend Analysis
-![Detailed View](dashboard-retail-2.png)
+![Detailed View](Dashboard-2.png)
 
 ### 📍 Page 3 – Segment Analysis & Insights
-![Business Insights](dashboard-retail-3.png)
+![Business Insights](Dashboard-3.png)
 
 ---
 
 ## 📂 Files Included
 
 - `retail_sales_dashboard.pbix`
-- `dashboard-retail-1.png`
-- `dashboard-retail-2.png`
-- `dashboard-retail-3.png`
-- `tooltip-weekday-revenue.png`
+- `Dashboard-1.png`
+- `Dashboard-2.png`
+- `Dashboard-3.png`
+-  Tooltip-1.png`
 - `README.md`
 
----
 
 ## 🙋 About Me
 
