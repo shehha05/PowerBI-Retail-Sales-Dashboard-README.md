@@ -71,7 +71,7 @@ This report includes a **custom tooltip page** to show **weekday-wise revenue** 
 - `retail_sales_dashboard.pbix`
 - `Dashboard-1.png`
 - `Dashboard-2.png`
-- `Dashbaord-3.png`
+- `Dashboard-3.png`
 -  Tooltip-1.png`
 - `README.md`
 
