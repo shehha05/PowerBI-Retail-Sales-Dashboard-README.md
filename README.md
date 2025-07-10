@@ -62,7 +62,7 @@ This report includes a **custom tooltip page** to show **weekday-wise revenue** 
 ![Detailed View](Dashboard-2.png)
 
 ### 📍 Page 3 – Segment Analysis & Insights
-![Business Insights](Dashboard-3.png)
+![Business Insights](Dashbaord-3.png)
 
 ---
 
@@ -71,7 +71,7 @@ This report includes a **custom tooltip page** to show **weekday-wise revenue** 
 - `retail_sales_dashboard.pbix`
 - `Dashboard-1.png`
 - `Dashboard-2.png`
-- `Dashboard-3.png`
+- `Dashbaord-3.png`
 -  Tooltip-1.png`
 - `README.md`
 
